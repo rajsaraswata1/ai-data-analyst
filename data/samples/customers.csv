@@ -1,0 +1,301 @@
+customer_id,customer_name,segment,city,signup_date
+C0001,Aarav Sharma 1,Corporate,Mumbai,2022-02-25
+C0002,Priya Joshi 1,Corporate,Jaipur,2022-03-14
+C0003,Rohan Patel 1,Corporate,Lucknow,2024-05-18
+C0004,Sneha Iyer 1,Small Business,Delhi,2024-04-21
+C0005,Vikram Singh 1,Corporate,Lucknow,2024-04-01
+C0006,Anita Das 1,Corporate,Delhi,2022-02-25
+C0007,Karan Nair 1,Corporate,Pune,2022-03-19
+C0008,Meera Verma 1,Consumer,Delhi,2022-10-08
+C0009,Arjun Mehta 1,Consumer,Chennai,2023-07-20
+C0010,Divya Gupta 1,Consumer,Pune,2022-12-01
+C0011,Rahul Kapoor 1,Consumer,Pune,2023-05-03
+C0012,Neha Reddy 1,Consumer,Chennai,2022-06-22
+C0013,Amit Sharma 1,Small Business,Jaipur,2024-01-01
+C0014,Pooja Joshi 1,Consumer,Lucknow,2022-11-10
+C0015,Suresh Patel 1,Consumer,Mumbai,2022-03-08
+C0016,Kavya Iyer 1,Consumer,Pune,2024-01-13
+C0017,Manish Singh 1,Consumer,Pune,2024-06-21
+C0018,Ritu Das 1,Corporate,Bengaluru,2022-01-15
+C0019,Nikhil Nair 1,Corporate,Pune,2023-03-13
+C0020,Isha Verma 1,Small Business,Jaipur,2024-04-07
+C0021,Aarav Mehta 2,Corporate,Lucknow,2023-12-08
+C0022,Priya Gupta 2,Consumer,Lucknow,2024-05-06
+C0023,Rohan Kapoor 2,Small Business,Pune,2023-02-20
+C0024,Sneha Reddy 2,Consumer,Bengaluru,2023-01-08
+C0025,Vikram Sharma 2,Consumer,Lucknow,2023-12-11
+C0026,Anita Joshi 2,Consumer,Bengaluru,2022-06-03
+C0027,Karan Patel 2,Small Business,Kolkata,2022-08-28
+C0028,Meera Iyer 2,Corporate,Bengaluru,2023-08-24
+C0029,Arjun Singh 2,Consumer,Bengaluru,2023-10-31
+C0030,Divya Das 2,Corporate,Mumbai,2022-04-30
+C0031,Rahul Nair 2,Consumer,Jaipur,2023-05-24
+C0032,Neha Verma 2,Corporate,Mumbai,2022-12-31
+C0033,Amit Mehta 2,Consumer,Delhi,2023-05-17
+C0034,Pooja Gupta 2,Consumer,Jaipur,2024-08-16
+C0035,Suresh Kapoor 2,Consumer,Kolkata,2022-03-18
+C0036,Kavya Reddy 2,Corporate,Chennai,2024-09-22
+C0037,Manish Sharma 2,Consumer,Pune,2023-03-26
+C0038,Ritu Joshi 2,Consumer,Chennai,2024-02-12
+C0039,Nikhil Patel 2,Consumer,Mumbai,2023-03-01
+C0040,Isha Iyer 2,Enterprise,Pune,2022-11-07
+C0041,Aarav Singh 3,Small Business,Mumbai,2024-02-10
+C0042,Priya Das 3,Corporate,Kolkata,2023-11-19
+C0043,Rohan Nair 3,Consumer,Jaipur,2022-05-25
+C0044,Sneha Verma 3,Enterprise,Jaipur,2023-12-07
+C0045,Vikram Mehta 3,Small Business,Bengaluru,2024-01-24
+C0046,Anita Gupta 3,Small Business,Lucknow,2023-01-23
+C0047,Karan Kapoor 3,Consumer,Kolkata,2024-07-14
+C0048,Meera Reddy 3,Consumer,Chennai,2023-10-03
+C0049,Arjun Sharma 3,Consumer,Mumbai,2022-11-30
+C0050,Divya Joshi 3,Small Business,Chennai,2022-01-11
+C0051,Rahul Patel 3,Corporate,Pune,2023-11-06
+C0052,Neha Iyer 3,Consumer,Jaipur,2022-07-29
+C0053,Amit Singh 3,Consumer,Delhi,2024-01-27
+C0054,Pooja Das 3,Corporate,Pune,2023-06-10
+C0055,Suresh Nair 3,Consumer,Lucknow,2023-04-12
+C0056,Kavya Verma 3,Small Business,Jaipur,2022-06-13
+C0057,Manish Mehta 3,Small Business,Chennai,2023-12-13
+C0058,Ritu Gupta 3,Small Business,Delhi,2022-06-15
+C0059,Nikhil Kapoor 3,Consumer,Bengaluru,2023-02-22
+C0060,Isha Reddy 3,Corporate,Lucknow,2024-04-16
+C0061,Aarav Sharma 4,Corporate,Jaipur,2024-07-09
+C0062,Priya Joshi 4,Corporate,Pune,2024-09-16
+C0063,Rohan Patel 4,Consumer,Delhi,2024-08-16
+C0064,Sneha Iyer 4,Consumer,Delhi,2023-07-10
+C0065,Vikram Singh 4,Consumer,Chennai,2022-07-20
+C0066,Anita Das 4,Corporate,Kolkata,2024-04-19
+C0067,Karan Nair 4,Consumer,Delhi,2024-03-12
+C0068,Meera Verma 4,Consumer,Pune,2024-09-17
+C0069,Arjun Mehta 4,Consumer,Kolkata,2023-10-13
+C0070,Divya Gupta 4,Corporate,Delhi,2022-05-22
+C0071,Rahul Kapoor 4,Consumer,Delhi,2023-05-18
+C0072,Neha Reddy 4,Enterprise,Chennai,2023-03-25
+C0073,Amit Sharma 4,Corporate,Pune,2024-04-22
+C0074,Pooja Joshi 4,Consumer,Lucknow,2023-01-28
+C0075,Suresh Patel 4,Corporate,Chennai,2022-11-25
+C0076,Kavya Iyer 4,Consumer,Bengaluru,2022-03-22
+C0077,Manish Singh 4,Enterprise,Jaipur,2024-04-15
+C0078,Ritu Das 4,Corporate,Chennai,2024-01-26
+C0079,Nikhil Nair 4,Small Business,Bengaluru,2022-02-11
+C0080,Isha Verma 4,Consumer,Chennai,2023-03-10
+C0081,Aarav Mehta 5,Corporate,Delhi,2023-04-25
+C0082,Priya Gupta 5,Corporate,Bengaluru,2023-04-15
+C0083,Rohan Kapoor 5,Enterprise,Kolkata,2024-07-07
+C0084,Sneha Reddy 5,Corporate,Jaipur,2022-05-31
+C0085,Vikram Sharma 5,Corporate,Pune,2022-11-03
+C0086,Anita Joshi 5,Consumer,Lucknow,2022-06-30
+C0087,Karan Patel 5,Consumer,Kolkata,2022-09-02
+C0088,Meera Iyer 5,Corporate,Delhi,2024-06-26
+C0089,Arjun Singh 5,Consumer,Chennai,2024-07-29
+C0090,Divya Das 5,Consumer,Jaipur,2022-02-14
+C0091,Rahul Nair 5,Small Business,Delhi,2023-09-25
+C0092,Neha Verma 5,Small Business,Jaipur,2022-08-21
+C0093,Amit Mehta 5,Consumer,Pune,2022-07-12
+C0094,Pooja Gupta 5,Corporate,Bengaluru,2022-10-20
+C0095,Suresh Kapoor 5,Consumer,Lucknow,2022-07-14
+C0096,Kavya Reddy 5,Corporate,Lucknow,2023-05-06
+C0097,Manish Sharma 5,Consumer,Delhi,2024-09-22
+C0098,Ritu Joshi 5,Corporate,Delhi,2023-08-10
+C0099,Nikhil Patel 5,Small Business,Pune,2023-12-25
+C0100,Isha Iyer 5,Small Business,Jaipur,2023-05-09
+C0101,Aarav Singh 6,Consumer,Delhi,2022-01-14
+C0102,Priya Das 6,Small Business,Pune,2022-03-26
+C0103,Rohan Nair 6,Consumer,Mumbai,2022-09-26
+C0104,Sneha Verma 6,Consumer,Pune,2022-09-01
+C0105,Vikram Mehta 6,Corporate,Kolkata,2024-04-20
+C0106,Anita Gupta 6,Consumer,Delhi,2024-04-23
+C0107,Karan Kapoor 6,Small Business,Pune,2024-05-04
+C0108,Meera Reddy 6,Small Business,Jaipur,2023-09-30
+C0109,Arjun Sharma 6,Consumer,Lucknow,2023-07-11
+C0110,Divya Joshi 6,Enterprise,Delhi,2023-10-12
+C0111,Rahul Patel 6,Consumer,Mumbai,2023-02-11
+C0112,Neha Iyer 6,Corporate,Mumbai,2023-11-02
+C0113,Amit Singh 6,Consumer,Chennai,2024-03-05
+C0114,Pooja Das 6,Enterprise,Mumbai,2024-02-02
+C0115,Suresh Nair 6,Consumer,Lucknow,2023-09-06
+C0116,Kavya Verma 6,Consumer,Lucknow,2022-02-28
+C0117,Manish Mehta 6,Consumer,Lucknow,2023-12-26
+C0118,Ritu Gupta 6,Enterprise,Mumbai,2023-01-02
+C0119,Nikhil Kapoor 6,Small Business,Delhi,2024-01-14
+C0120,Isha Reddy 6,Small Business,Jaipur,2023-06-24
+C0121,Aarav Sharma 7,Small Business,Bengaluru,2024-05-31
+C0122,Priya Joshi 7,Small Business,Pune,2022-12-05
+C0123,Rohan Patel 7,Corporate,Jaipur,2024-07-20
+C0124,Sneha Iyer 7,Consumer,Delhi,2024-04-24
+C0125,Vikram Singh 7,Small Business,Delhi,2022-11-28
+C0126,Anita Das 7,Corporate,Delhi,2023-04-28
+C0127,Karan Nair 7,Consumer,Mumbai,2023-06-16
+C0128,Meera Verma 7,Consumer,Delhi,2024-02-08
+C0129,Arjun Mehta 7,Small Business,Lucknow,2023-11-21
+C0130,Divya Gupta 7,Consumer,Kolkata,2024-05-02
+C0131,Rahul Kapoor 7,Enterprise,Jaipur,2023-01-05
+C0132,Neha Reddy 7,Consumer,Lucknow,2023-05-20
+C0133,Amit Sharma 7,Consumer,Jaipur,2023-03-07
+C0134,Pooja Joshi 7,Small Business,Mumbai,2024-06-28
+C0135,Suresh Patel 7,Consumer,Bengaluru,2022-11-01
+C0136,Kavya Iyer 7,Consumer,Lucknow,2023-08-11
+C0137,Manish Singh 7,Corporate,Mumbai,2022-05-01
+C0138,Ritu Das 7,Small Business,Delhi,2024-04-30
+C0139,Nikhil Nair 7,Consumer,Pune,2023-01-20
+C0140,Isha Verma 7,Consumer,Lucknow,2022-12-07
+C0141,Aarav Mehta 8,Small Business,Jaipur,2023-08-06
+C0142,Priya Gupta 8,Enterprise,Jaipur,2023-05-14
+C0143,Rohan Kapoor 8,Corporate,Delhi,2024-04-27
+C0144,Sneha Reddy 8,Consumer,Lucknow,2023-06-16
+C0145,Vikram Sharma 8,Consumer,Lucknow,2023-06-01
+C0146,Anita Joshi 8,Consumer,Pune,2022-04-15
+C0147,Karan Patel 8,Consumer,Lucknow,2022-01-22
+C0148,Meera Iyer 8,Corporate,Lucknow,2023-02-03
+C0149,Arjun Singh 8,Consumer,Chennai,2024-09-25
+C0150,Divya Das 8,Corporate,Delhi,2024-07-06
+C0151,Rahul Nair 8,Corporate,Chennai,2023-09-21
+C0152,Neha Verma 8,Corporate,Mumbai,2023-09-23
+C0153,Amit Mehta 8,Consumer,Delhi,2023-01-27
+C0154,Pooja Gupta 8,Small Business,Delhi,2022-06-27
+C0155,Suresh Kapoor 8,Small Business,Pune,2022-01-09
+C0156,Kavya Reddy 8,Small Business,Kolkata,2022-12-05
+C0157,Manish Sharma 8,Consumer,Kolkata,2022-11-13
+C0158,Ritu Joshi 8,Consumer,Pune,2022-07-11
+C0159,Nikhil Patel 8,Enterprise,Kolkata,2022-09-17
+C0160,Isha Iyer 8,Consumer,Pune,2022-01-25
+C0161,Aarav Singh 9,Consumer,Delhi,2023-08-31
+C0162,Priya Das 9,Corporate,Lucknow,2024-07-16
+C0163,Rohan Nair 9,Corporate,Chennai,2023-11-22
+C0164,Sneha Verma 9,Enterprise,Mumbai,2023-03-25
+C0165,Vikram Mehta 9,Consumer,Lucknow,2023-02-25
+C0166,Anita Gupta 9,Enterprise,Pune,2022-11-04
+C0167,Karan Kapoor 9,Consumer,Delhi,2022-05-23
+C0168,Meera Reddy 9,Corporate,Mumbai,2023-08-22
+C0169,Arjun Sharma 9,Corporate,Delhi,2023-07-21
+C0170,Divya Joshi 9,Consumer,Bengaluru,2022-01-08
+C0171,Rahul Patel 9,Consumer,Delhi,2023-02-20
+C0172,Neha Iyer 9,Consumer,Pune,2022-10-06
+C0173,Amit Singh 9,Enterprise,Kolkata,2022-06-20
+C0174,Pooja Das 9,Corporate,Jaipur,2023-12-05
+C0175,Suresh Nair 9,Enterprise,Pune,2023-06-10
+C0176,Kavya Verma 9,Small Business,Kolkata,2023-09-26
+C0177,Manish Mehta 9,Corporate,Kolkata,2023-12-15
+C0178,Ritu Gupta 9,Small Business,Delhi,2024-09-08
+C0179,Nikhil Kapoor 9,Consumer,Delhi,2024-03-13
+C0180,Isha Reddy 9,Consumer,Kolkata,2023-09-13
+C0181,Aarav Sharma 10,Small Business,Delhi,2024-05-29
+C0182,Priya Joshi 10,Small Business,Delhi,2023-04-23
+C0183,Rohan Patel 10,Consumer,Mumbai,2024-09-11
+C0184,Sneha Iyer 10,Corporate,Jaipur,2024-02-01
+C0185,Vikram Singh 10,Corporate,Chennai,2023-10-13
+C0186,Anita Das 10,Small Business,Pune,2024-06-22
+C0187,Karan Nair 10,Corporate,Chennai,2023-05-31
+C0188,Meera Verma 10,Consumer,Mumbai,2023-12-22
+C0189,Arjun Mehta 10,Consumer,Bengaluru,2022-10-12
+C0190,Divya Gupta 10,Consumer,Delhi,2024-08-21
+C0191,Rahul Kapoor 10,Corporate,Lucknow,2023-09-16
+C0192,Neha Reddy 10,Small Business,Mumbai,2024-02-22
+C0193,Amit Sharma 10,Corporate,Chennai,2023-04-06
+C0194,Pooja Joshi 10,Consumer,Jaipur,2024-05-16
+C0195,Suresh Patel 10,Consumer,Kolkata,2022-03-16
+C0196,Kavya Iyer 10,Small Business,Chennai,2022-04-25
+C0197,Manish Singh 10,Small Business,Kolkata,2023-05-23
+C0198,Ritu Das 10,Consumer,Lucknow,2024-01-03
+C0199,Nikhil Nair 10,Consumer,Bengaluru,2024-03-20
+C0200,Isha Verma 10,Corporate,Pune,2023-03-17
+C0201,Aarav Mehta 11,Consumer,Lucknow,2023-10-12
+C0202,Priya Gupta 11,Small Business,Kolkata,2023-07-08
+C0203,Rohan Kapoor 11,Consumer,Chennai,2024-08-19
+C0204,Sneha Reddy 11,Consumer,Mumbai,2023-10-17
+C0205,Vikram Sharma 11,Enterprise,Mumbai,2023-02-21
+C0206,Anita Joshi 11,Consumer,Jaipur,2024-08-27
+C0207,Karan Patel 11,Consumer,Kolkata,2022-04-18
+C0208,Meera Iyer 11,Consumer,Bengaluru,2024-09-11
+C0209,Arjun Singh 11,Consumer,Chennai,2022-06-04
+C0210,Divya Das 11,Consumer,Kolkata,2022-10-16
+C0211,Rahul Nair 11,Consumer,Kolkata,2024-04-01
+C0212,Neha Verma 11,Consumer,Pune,2024-01-04
+C0213,Amit Mehta 11,Consumer,Bengaluru,2024-08-28
+C0214,Pooja Gupta 11,Corporate,Pune,2024-01-20
+C0215,Suresh Kapoor 11,Corporate,Chennai,2023-09-30
+C0216,Kavya Reddy 11,Consumer,Jaipur,2022-12-13
+C0217,Manish Sharma 11,Consumer,Mumbai,2022-01-05
+C0218,Ritu Joshi 11,Corporate,Mumbai,2022-05-04
+C0219,Nikhil Patel 11,Small Business,Chennai,2022-10-25
+C0220,Isha Iyer 11,Small Business,Kolkata,2022-02-10
+C0221,Aarav Singh 12,Consumer,Pune,2023-05-24
+C0222,Priya Das 12,Consumer,Chennai,2024-02-17
+C0223,Rohan Nair 12,Consumer,Jaipur,2024-08-21
+C0224,Sneha Verma 12,Consumer,Chennai,2023-05-05
+C0225,Vikram Mehta 12,Corporate,Mumbai,2024-05-25
+C0226,Anita Gupta 12,Consumer,Delhi,2024-09-12
+C0227,Karan Kapoor 12,Consumer,Jaipur,2024-05-09
+C0228,Meera Reddy 12,Consumer,Mumbai,2023-04-10
+C0229,Arjun Sharma 12,Corporate,Jaipur,2022-11-22
+C0230,Divya Joshi 12,Consumer,Bengaluru,2024-09-04
+C0231,Rahul Patel 12,Small Business,Delhi,2022-08-30
+C0232,Neha Iyer 12,Consumer,Bengaluru,2023-02-16
+C0233,Amit Singh 12,Enterprise,Kolkata,2022-03-16
+C0234,Pooja Das 12,Consumer,Chennai,2024-03-04
+C0235,Suresh Nair 12,Small Business,Lucknow,2023-10-12
+C0236,Kavya Verma 12,Small Business,Kolkata,2022-03-26
+C0237,Manish Mehta 12,Enterprise,Chennai,2022-08-10
+C0238,Ritu Gupta 12,Small Business,Pune,2023-07-10
+C0239,Nikhil Kapoor 12,Small Business,Jaipur,2023-06-25
+C0240,Isha Reddy 12,Corporate,Chennai,2024-03-13
+C0241,Aarav Sharma 13,Small Business,Mumbai,2022-09-24
+C0242,Priya Joshi 13,Consumer,Chennai,2024-07-13
+C0243,Rohan Patel 13,Corporate,Lucknow,2023-03-21
+C0244,Sneha Iyer 13,Corporate,Mumbai,2024-04-02
+C0245,Vikram Singh 13,Small Business,Jaipur,2022-08-27
+C0246,Anita Das 13,Corporate,Kolkata,2022-02-06
+C0247,Karan Nair 13,Consumer,Kolkata,2022-02-25
+C0248,Meera Verma 13,Corporate,Bengaluru,2023-01-08
+C0249,Arjun Mehta 13,Consumer,Jaipur,2024-08-11
+C0250,Divya Gupta 13,Consumer,Delhi,2022-02-18
+C0251,Rahul Kapoor 13,Corporate,Bengaluru,2023-01-04
+C0252,Neha Reddy 13,Consumer,Chennai,2022-04-20
+C0253,Amit Sharma 13,Consumer,Chennai,2024-07-20
+C0254,Pooja Joshi 13,Consumer,Chennai,2023-11-07
+C0255,Suresh Patel 13,Consumer,Mumbai,2024-02-02
+C0256,Kavya Iyer 13,Consumer,Mumbai,2023-12-15
+C0257,Manish Singh 13,Consumer,Delhi,2023-10-20
+C0258,Ritu Das 13,Corporate,Kolkata,2024-02-13
+C0259,Nikhil Nair 13,Consumer,Bengaluru,2022-01-09
+C0260,Isha Verma 13,Enterprise,Kolkata,2024-05-15
+C0261,Aarav Mehta 14,Small Business,Kolkata,2024-01-10
+C0262,Priya Gupta 14,Corporate,Pune,2024-01-10
+C0263,Rohan Kapoor 14,Consumer,Kolkata,2023-01-29
+C0264,Sneha Reddy 14,Corporate,Pune,2024-03-11
+C0265,Vikram Sharma 14,Small Business,Kolkata,2023-01-17
+C0266,Anita Joshi 14,Corporate,Pune,2022-02-18
+C0267,Karan Patel 14,Small Business,Kolkata,2024-06-26
+C0268,Meera Iyer 14,Corporate,Bengaluru,2022-08-23
+C0269,Arjun Singh 14,Corporate,Mumbai,2022-04-12
+C0270,Divya Das 14,Consumer,Lucknow,2023-09-14
+C0271,Rahul Nair 14,Small Business,Bengaluru,2022-08-22
+C0272,Neha Verma 14,Consumer,Kolkata,2024-05-08
+C0273,Amit Mehta 14,Corporate,Mumbai,2023-03-20
+C0274,Pooja Gupta 14,Small Business,Chennai,2022-01-05
+C0275,Suresh Kapoor 14,Consumer,Kolkata,2024-08-09
+C0276,Kavya Reddy 14,Corporate,Pune,2023-05-30
+C0277,Manish Sharma 14,Consumer,Kolkata,2022-09-20
+C0278,Ritu Joshi 14,Small Business,Bengaluru,2023-11-09
+C0279,Nikhil Patel 14,Consumer,Jaipur,2023-06-15
+C0280,Isha Iyer 14,Enterprise,Kolkata,2022-01-30
+C0281,Aarav Singh 15,Consumer,Lucknow,2024-01-30
+C0282,Priya Das 15,Enterprise,Pune,2023-02-06
+C0283,Rohan Nair 15,Small Business,Kolkata,2023-12-01
+C0284,Sneha Verma 15,Corporate,Jaipur,2024-06-14
+C0285,Vikram Mehta 15,Small Business,Mumbai,2023-09-03
+C0286,Anita Gupta 15,Small Business,Jaipur,2023-11-03
+C0287,Karan Kapoor 15,Enterprise,Lucknow,2022-09-12
+C0288,Meera Reddy 15,Consumer,Kolkata,2022-08-26
+C0289,Arjun Sharma 15,Corporate,Pune,2023-02-20
+C0290,Divya Joshi 15,Consumer,Kolkata,2024-05-02
+C0291,Rahul Patel 15,Corporate,Bengaluru,2023-06-09
+C0292,Neha Iyer 15,Consumer,Lucknow,2022-12-15
+C0293,Amit Singh 15,Corporate,Mumbai,2024-02-19
+C0294,Pooja Das 15,Corporate,Bengaluru,2024-05-03
+C0295,Suresh Nair 15,Corporate,Kolkata,2024-06-21
+C0296,Kavya Verma 15,Corporate,Lucknow,2022-10-26
+C0297,Manish Mehta 15,Small Business,Chennai,2023-12-11
+C0298,Ritu Gupta 15,Small Business,Chennai,2023-08-14
+C0299,Nikhil Kapoor 15,Corporate,Delhi,2023-03-25
+C0300,Isha Reddy 15,Corporate,Delhi,2023-02-01

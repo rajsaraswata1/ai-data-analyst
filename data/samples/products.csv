@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_cost
+P001,Laptop,Electronics,486.38
+P002,Monitor,Electronics,578.16
+P003,Tablet,Electronics,196.74
+P004,Headphones,Electronics,543.48
+P005,Webcam,Electronics,180.39
+P006,Router,Electronics,349.39
+P007,Speaker,Electronics,486.35
+P008,Printer,Electronics,302.96
+P009,Desk,Furniture,156.37
+P010,Chair,Furniture,270.98
+P011,Bookshelf,Furniture,227.13
+P012,Cabinet,Furniture,339.14
+P013,Lamp,Furniture,217.65
+P014,Table,Furniture,135.76
+P015,Notebook,Office Supplies,6.28
+P016,Pen Set,Office Supplies,24.2
+P017,Stapler,Office Supplies,9.68
+P018,Folder,Office Supplies,12.17
+P019,Planner,Office Supplies,5.22
+P020,Whiteboard,Office Supplies,8.18
+P021,Markers,Office Supplies,14.53
+P022,Paper Ream,Office Supplies,18.16
+P023,Mouse,Accessories,76.03
+P024,Keyboard,Accessories,31.98
+P025,USB Hub,Accessories,49.39
+P026,Cable Pack,Accessories,16.77
+P027,Laptop Stand,Accessories,68.86
+P028,Mouse Pad,Accessories,64.82
+P029,Charger,Accessories,41.12
+P030,Phone Case,Accessories,13.69

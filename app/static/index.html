@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Data Analyst</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div id="auth" class="auth hidden">
+    <form id="auth-form" class="auth-card" autocomplete="on">
+      <div class="logo">◆ AI Data Analyst</div>
+      <p class="muted">Upload CSVs and ask questions in plain English.</p>
+      <label>Username<input id="auth-user" name="username" required minlength="3" autocomplete="username"></label>
+      <label>Password<input id="auth-pass" name="password" type="password" required minlength="8" autocomplete="current-password"></label>
+      <div id="auth-error" class="error-text" role="alert"></div>
+      <button type="submit" id="btn-login" class="btn primary">Sign in</button>
+      <button type="button" id="btn-register" class="btn">Create account</button>
+      <p class="muted small">Passwords are hashed (scrypt). Minimum 8 characters.</p>
+    </form>
+  </div>
+
+  <div id="app" class="app hidden">
+    <aside class="sidebar">
+      <div class="logo">◆ AI Data Analyst</div>
+      <nav id="nav"></nav>
+      <div class="sidebar-foot"><span id="whoami" class="muted small"></span><button id="btn-logout" class="btn small">Sign out</button></div>
+    </aside>
+    <main id="main" class="main"></main>
+  </div>
+  <div id="toasts" class="toasts" aria-live="polite"></div>
+  <script src="/static/charts.js"></script>
+  <script src="/static/app.js"></script>
+</body>
+</html>
